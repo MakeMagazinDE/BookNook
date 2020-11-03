@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Book Nook: Diorama-Buchstütze aus dem Lasercutter
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Diese leuchtende Buchstütze aus dem Lasercutter eröffnet den Blick auf eine verwinkelte Gasse –  die direkt in das eigene Lieblingsbuch führt. 
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Ein Lasercutter schneidet dünnes Sperrholz exakt, schnell und ebenso filigran wie eine Laubsäge, noch dazu kann man damit gravieren. Ideal für feine Holzprojekte der dekorativen Art wie eine beleuchtete Miniaturgasse, die zwischen den Büchern in die Tiefe des Regals führt
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/BookNook/blob/master/booknook.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es im [Make Sonderheft 2020 "Loslegen mit Holz" ab Seite 120](https://www.heise.de/select/make/2020/7/2022713530145447005). Hier finden Sie die 2D-Schnittdateien für den Lasercutter.
